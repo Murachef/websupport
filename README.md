@@ -1,21 +1,34 @@
-■体験！発見！感動の郷 妙高
-- [x] http://myoko-gt.com/
-	- [ ] koryu.taikenkouza
-- [ ] http://koryu.myoko-gt.com/info/
-- [ ] http://koryu.myoko-gt.com/info/assets_c/
-- [ ] http://myoko-gt.com/spots/fukei/image/
-- [x] http://myoko-gt.com/mimiyori/
-	- [ ] ãã°æã¡ã»èç´°å·¥ãè¡¨.pdf
-	- [ ] ãæçµãäº¤æµæ½è¨­ãã©ã·ä¸¡é¢.doc
-	- [ ] P1150056.JPG
-	- [ ] sasagaminearuki.PDF
+    2021/01/30/10:31
+    ソースコードで画像と添付ファイルがあるURLをざっと見てみました。
+    
+    ■体験！発見！感動の郷 妙高
+    http://myoko-gt.com/
+    http://koryu.myoko-gt.com/info/
+    http://koryu.myoko-gt.com/info/assets_c/
+    http://myoko-gt.com/spots/fukei/image/
+    http://myoko-gt.com/mimiyori/
+    
+    ■ハートランド妙高
+    http://koryu.myoko-gt.com/info/
+    http://myoko-gt.com/mimiyori/ （重複）
+    http://koryu.myoko-gt.com/
+     
+    ■クラインガルテン
+    http://kg.myoko-gt.com/
+    http://kg.myoko-gt.com/assets_c/
+    http://myoko-gt.com/mimiyori/assets_c/
 
-■ハートランド妙高
-- [ ] http://koryu.myoko-gt.com/info/
-- [ ] http://myoko-gt.com/mimiyori/
-- [ ] http://koryu.myoko-gt.com/
- 
-■クラインガルテン
-- [ ] http://kg.myoko-gt.com/
-- [ ] http://kg.myoko-gt.com/assets_c/
-- [ ] http://myoko-gt.com/mimiyori/assets_c/
+## sakura internet 転送状況   
+ - [x] myokogt
+	 - [x] accets_c（配下）
+	 - [x] mimiyori
+		 - [x] accetts_c（配下）
+	 - [x] sports/fukei/image
+- [x] koryu
+	- [x] info
+		- [x] assets_c（配下）
+- [x] kg
+	- [x] assets_c（配下）
+
+### UPDATE:
+ 1. 2021/01/30 13:45
